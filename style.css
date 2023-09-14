@@ -1,0 +1,42 @@
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.topnav a {
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 35px;
+    display: inline-block;
+}
+
+.topnav a:hover {
+    background-color: aqua;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: aqua;
+    color: white;
+}
+
+.homeh {
+    font-size: 50px;
+    text-align: center;
+}
+
+.homep {
+    font-size: 30px;
+}
+
+.abouth {
+    font-size: 50px;
+    text-align: center;
+}
+
+.aboutp {
+    font-size: 20px;
+    text-align: center;
+}
