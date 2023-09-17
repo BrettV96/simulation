@@ -84,15 +84,34 @@ html {
 
 .portlist {
     display: block;
-    font-size: 35px;
+    font-size: 30px;
     background-color: rgb(250, 172, 69);
     margin-left: 25%;
-    margin-right: 370px;
+    margin-right: 500px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
 .portimg {
-    margin-left: 830px;
+    margin-left: 800px;
     padding-top: 40px;
+    width: 280px;
+    height: 272px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    font-size: 15px;
+    color: white;
+    margin-top: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
 }
