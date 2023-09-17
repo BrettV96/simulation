@@ -64,12 +64,14 @@ html {
     background-color: cadetblue;
 }
 
-.list1 {
-    text-align: center;
+.aboutlist {
+    display: block;
     font-size: 25px;
     background-color: darkolivegreen;
-    padding-left: 25%;
-    padding-right: 25%
+    margin-left: 800px;
+    margin-right: 800px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .mainimg {
@@ -78,4 +80,19 @@ html {
     padding-top: 20px;
     margin-left: auto;
     margin-right: auto;
+}
+
+.portlist {
+    display: block;
+    font-size: 35px;
+    background-color: rgb(250, 172, 69);
+    margin-left: 25%;
+    margin-right: 370px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.portimg {
+    margin-left: 830px;
+    padding-top: 40px;
 }
