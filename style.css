@@ -141,9 +141,18 @@ body {
 
 }
 
-.subh {
+.sucp {
     font-size: 50px;
-    text-align: right
+    text-align: center;
+    padding-top: 150px;
     
 }
 
+.butsub {
+    text-align: center;
+}
+
+.buttonret {
+    display: inline-block;
+    font-size: 20px;
+}
