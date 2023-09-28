@@ -19,7 +19,7 @@
 
 .topnav a.active {
     background-color: aqua;
-    color: white;
+    color: rgb(148, 90, 224);
 }
 
 .homeh {
@@ -37,6 +37,17 @@
 .abouth {
     font-size: 50px;
     text-align: center;
+}
+
+.buttonh {
+    background-color: white;
+    color:black;
+    transition-duration: 0.5s;
+}
+
+.buttonh:hover {
+    background-color: black;
+    color: white;
 }
 
 .aboutp {
